@@ -38,3 +38,4 @@ with open("flashcards.txt", "r") as reader:
     print("\n Your flashcards")
     for i in flash: 
         print(">", i)
+
